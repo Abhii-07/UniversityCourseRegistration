@@ -35,7 +35,7 @@ To run the system locally, execute the following steps:
 
 1. **Run the Application:** Run the CourseApplication file
 
-2. **Access the Application:** The application should be accessible at `http://localhost:8080` by default.
+2. **Access the Application:** The application should be accessible at `http://localhost:8088` by default.
 
 ## API Endpoints
 
@@ -65,10 +65,6 @@ The following are the main API endpoints for this system:
 
 ## Postman Collection
 
-For detailed requests and examples
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/20164701-b533ff4f-ed77-44ef-b10b-474b1c4f0a12?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20164701-b533ff4f-ed77-44ef-b10b-474b1c4f0a12%26entityType%3Dcollection%26workspaceId%3D5d118926-c674-44a8-a082-1f1e58a2730c)
 
-## Project Structure
 
-- `src/` - Contains the source code.
-- `docs/` - Documentation related to the project.
